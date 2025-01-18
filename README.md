@@ -10,7 +10,7 @@ The Scientific Calculator Application is a Python-based project that combines co
 ~ Offline Functionality: Perform calculations without the need for internet access.
 
 # 🎥 Demonstration
-You can watch the demonstration video of the application.
+You can watch the demonstration video of the application on my linkedln account.
 
 # 📂 Project Structure
 The repository contains:
